@@ -1,4 +1,4 @@
-Antes de utilizar os comandos git, vamos ver o que cada um deles faz
+# Antes de utilizar os comandos git, vamos ver o que cada um deles faz
 
 
 
