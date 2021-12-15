@@ -31,20 +31,20 @@ git init
 
 * git push -u origin master
   * Envia arquivos/diretorios para um repositorio remoto
-  *Obs: O primeiro push de um repositório deve conter o nome
+  * Obs: O primeiro push de um repositório deve conter o nome
 do repositório remoto e o branch
 
 * git push
- * Utilizado nos demais pushes
+  * Utilizado nos demais pushes
 
 * git pull
- * Atualiza o repositorio local de acordo com o repositorio remoto
+  * Atualiza o repositorio local de acordo com o repositorio remoto
 
 * git branch nome-da-branch 
- * Cria uma nova branch
+  * Cria uma nova branch
 
 * git checkout master (ou nome de uma branch)
- * Altera o local onde os arquivos serao modificados
+  * Altera o local onde os arquivos serao modificados
 
 * git merge
- * Mescla as branches
+  * Mescla as branches
