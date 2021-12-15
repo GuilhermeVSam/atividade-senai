@@ -8,8 +8,8 @@
 * git config --global user.email	endereco@email.com
   * "Setar" o email do usuario
 
-git init
-  //Cria um novo repositorio na pasta onde o Git Bash foi iniciado
+* git init
+  * Cria um novo repositorio na pasta onde o Git Bash foi iniciado
 
 * git status
   * Verifica o estado dos arquivos/diretorios
