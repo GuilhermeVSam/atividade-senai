@@ -1,0 +1,14 @@
+git help
+git config --global user.name
+git config --global user.email
+git init
+git status
+git add
+git add .
+git commit
+git log
+git checkout
+git remote
+git push
+git branch
+git fetch
