@@ -1,3 +1,7 @@
+Antes de utilizar os comandos git, vamos ver o que cada um deles faz
+
+
+
 git config --global user.name "Nome do Usuário			//"Setar" o usuario
 
 git config --global user.email	endereco@email.com		//"Setar" o email do usuario
