@@ -2,7 +2,7 @@
 
 
 
-* git config --global user.name "Nome do Usuário
+## git config --global user.name "Nome do Usuário
   * "Setar" o usuario
 
 * git config --global user.email	endereco@email.com
